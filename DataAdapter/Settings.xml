@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<Settings>
+  <App>
+    <!--服务执行间隔时间，单位秒，为空时默认30秒-->
+    <Timer>30</Timer>
+    <!--数据库类型-->
+    <ConnectionType>SQLSERVER</ConnectionType><!--SQLSERVER、ORACLE、OLEDB-->
+    <!--数据库连接-->
+    <ConnectionString>server='localhost\mssqlserver2008';uid='c2k';password='C2K';database='FeiliksDataAdapter';multipleactiveresultsets=true</ConnectionString>
+  </App>
+</Settings>

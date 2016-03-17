@@ -1,0 +1,1 @@
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\InstallUtil.exe D:\½»»»ÖÐÐÄ\DataAdapter\DataAdapter\bin\Debug\DataAdapter.exe
